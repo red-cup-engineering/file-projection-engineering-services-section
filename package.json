@@ -1,6 +1,11 @@
 {
   "name": "@red-cup-engineering/file-projection-services-section",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/computer-file-engineering-services-section.git",
+    "directory": "services/file-projection-services-section"
+  },
   "private": true,
   "type": "module"
 }
