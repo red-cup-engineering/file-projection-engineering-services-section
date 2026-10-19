@@ -1,0 +1,8 @@
+[submodule "replacing-file-content-service"]
+	path = services/replacing-file-content-service
+	url = https://github.com/red-cup-engineering/replacing-file-content-service.git
+	branch = main
+[submodule "file-projection-kernel-service"]
+	path = services/file-projection-kernel-service
+	url = https://github.com/red-cup-engineering/file-projection-kernel-service.git
+	branch = main
